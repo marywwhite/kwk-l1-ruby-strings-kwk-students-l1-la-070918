@@ -1,16 +1,16 @@
 puts "Hi! You've been invited to a party. What's your name?"
 guest_name = gets.chomp
 
-puts "What is the party name? "
+puts "Party name? "
 party_name = gets.chomp
 
-puts "What is the date? "
+puts "Date? "
 date = gets.chomp
 
-puts "What is the time of the party? "
+puts "Time of the party? "
 time = gets.chomp
 
-puts "What is the host's name? "
+puts "Host's name? "
 host_name = gets.chomp
 
 
